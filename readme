@@ -1,0 +1,7 @@
+url-shortener
+
+This is a basic URL shortener.
+
+To work correctly, it should be configured. Please open the PHP file 
+and check the paths. It will work by default only if it is put
+into your root public_html directory.
